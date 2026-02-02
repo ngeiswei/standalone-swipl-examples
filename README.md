@@ -1,6 +1,7 @@
 # Standalone SWI-Prolog Program Examples
 
-Contains simple standalone SWI-Prolog programs
+Contains simple standalone Prolog programs to help me to learn how
+program in SWI-Prolog.
 
 ## Prerequisites
 
@@ -17,5 +18,11 @@ To build the programs
 which will produce the following executables
 
 ```
-gp
+grandparent
+dynamic_flags
+conditionals
 ```
+
+## More Information
+
+Each Prolog files contains comments explaining how it works.
